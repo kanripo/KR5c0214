@@ -1,12 +1,3 @@
-#+TITLE: 太清中黃真經 / CK-KZ
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 00:54:33.718125
-* 版本
- |     CK-KZ|【重刊道藏輯要】|
- |       HFL|【正統道藏・涵芬樓版】|
- |      YP-C|【原版道藏輯要】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5c0214_000.txt][太清中黃真經 0]]
- - [[file:KR5c0214_001.txt][太清中黃真經 1]]
- - [[file:KR5c0214_002.txt][太清中黃真經 2]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
